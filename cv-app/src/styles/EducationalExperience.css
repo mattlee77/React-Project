@@ -1,0 +1,62 @@
+.educational-experience {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.educational-experience h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.education-entry {
+  background-color: white;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.education-entry h3 {
+  color: #4CAF50;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.remove-btn {
+  background-color: #f44336;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.remove-btn:hover {
+  background-color: #da190b;
+}
+
+.add-btn {
+  background-color: #2196F3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.add-btn:hover {
+  background-color: #1976D2;
+}

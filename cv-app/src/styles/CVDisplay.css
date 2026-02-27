@@ -1,0 +1,52 @@
+.cv-display {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+.cv-display h2 {
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.cv-section {
+  margin-bottom: 30px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 20px;
+}
+
+.cv-section h3 {
+  color: #333;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.cv-content {
+  padding-left: 20px;
+}
+
+.cv-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  border-left: 4px solid #4CAF50;
+}
+
+.cv-item h4 {
+  color: #4CAF50;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.cv-item p {
+  margin: 5px 0;
+  color: #666;
+  line-height: 1.6;
+}
+
+.cv-item strong {
+  color: #333;
+}
